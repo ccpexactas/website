@@ -19,6 +19,16 @@ const base = (title, logo, navbar, content) => `
 
     <!-- Styles -->
      <link href="static/fonts/style.css" rel="stylesheet">
+     
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VJPLV3X0LW"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-VJPLV3X0LW');
+    </script>
 
 </head>
 
