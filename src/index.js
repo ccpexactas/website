@@ -5,6 +5,7 @@ const {
     readMarkdownsFolder,
     readImagesFolder,
     readYaml,
+    readYamlLinks,
     getDate,
 } = require("./makeTools")
 
