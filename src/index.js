@@ -2,10 +2,8 @@ const {
     readMarkdown,
     readCsv,
     siteMaker,
-    readMarkdownsFolder,
     readImagesFolder,
     readYaml,
-    readYamlLinks,
     getDate,
 } = require("./makeTools")
 
@@ -32,7 +30,7 @@ const pages = [
         pageMaker: proposal,
         content: {
             proposal: readMarkdown(`${paths.texts}/proposal.md`),
-            linksDocuments: readYamlLinks(`${paths.texts}/linksDocuments.yml`)
+            linksDocuments: readYaml(`${paths.texts}/linksDocuments.yml`)
         }
     },
     {

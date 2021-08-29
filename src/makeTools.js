@@ -32,24 +32,11 @@ function readYaml(yamlPath){
     let fileContents = fs.readFileSync(`${yamlPath}`, "utf8");
     let documents = yaml.safeLoadAll(fileContents);
     return documents.map(function (doc){
-        doc.description = marked(doc.description)
+        if (doc.description){
+            doc.description = marked(doc.description)
+        }
         return doc
     })
-}
-
-function readYamlLinks(yamlPath){
-    let fileContents = fs.readFileSync(`${yamlPath}`, "utf8");
-    let documents = yaml.safeLoadAll(fileContents);
-    return documents.map(function (doc){
-        doc.link = marked(doc.link)
-        return doc
-    })
-}
-
-function readMarkdownsFolder(mdFolder){
-    return fs.readdirSync(mdFolder)
-        .filter(file => file.slice(-3) === ".md")
-        .map(file => readMarkdown(`${mdFolder}/${file}`));
 }
 
 function readImagesFolder(mdFolder){
@@ -100,6 +87,6 @@ function siteMaker(pages){
 }
 
 module.exports = {
-    readMarkdown, readCsv, siteMaker, readMarkdownsFolder,
-    readImagesFolder, readYaml, readYamlLinks, getDate
+    readMarkdown, readCsv, siteMaker,
+    readImagesFolder, readYaml, getDate
 };

@@ -3,8 +3,11 @@ const proposal = function (content) {
     let listLinksDocuments="";
     for (const link of content.linksDocuments){
         listLinksDocuments += `
-                <li class="list-group-item"> 
-                    ${link.title} ${link.link} 
+                <li class="list-group-item">
+                    <h6>${link.title}</h6>
+                    <a style="overflow-wrap: break-word" href="${link.link}">
+                        ${link.link}
+                    </a>
                 </li>
         `
     }
