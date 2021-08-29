@@ -33,10 +33,10 @@ Recibe como parámetro el link utilizado por el botón
 ### Candidatxs
 
 Esta sección hace referencia a 6 archivos diferentes:
-- [dean_short.md] Decana (versión resumida)
-- [dean_large.md] Decana (versión completa)
-- [vicedean_short.md] Vicedecana (versión resumida)
-- [vicedean_large.md] Vicedecana (versión completa)
+- [deanShort.md] Decana (versión resumida)
+- [deanLarge.md] Decana (versión completa)
+- [vicedeanShort.md] Vicedecana (versión resumida)
+- [vicedeanLarge.md] Vicedecana (versión completa)
 - [counselorsTitular.csv] Lista de consejerxs titulares
 - [counselorsAlternate.csv] Lista de consejerxs suplentes 
 
@@ -45,6 +45,10 @@ adicionales en el encabezado: titulo, nombre e imagen.
 
 Las listas de consejerxs deben completarse en formato
 csv manteniendo el orden de las columnas ya establecidas.
+
+> Actualmente el contenedor de candidatxs a consejerxs se
+> encuentra deshabilitado. Para habilitarlo se debe eliminar el
+> parámetro de estilo `display: none` de [esta ubicación]
 
 ### Actividades
 
@@ -62,26 +66,33 @@ multimedia incrustado (por ejemplo un video de youtube)
 acompañado de un título y una descripción.
 
 Las actividades visibles se encuentran en el archivo
-[activities.yml].
+[activities.yml]. Las actividades más recientes deben ser
+agregadas al comienzo del archivo.
 
 ### Contacto
 
 La sección de contacto se genera a partir de dos archivos:
-- [invitation.md] Dedicado a invitar adherentes
-- [joined.csv] Lista de adheridxs
+- [invitation.md] Dedicado a invitar adherentes y presentar
+las redes sociales
+- [joined.csv] Lista de adheridxs (con fecha automática)
+
+> La actualización automática de los adherentes se encuentra
+> en desarrollo. Por el momento la lista debe ser actualizada
+> manualmente.
 
 
-[markdown]: https://marked.js.org/demo
+[markdown]: https://marked.js.org/demo/
 [presentation.md]: ./content/texts/presentation.md
 [proposal.md]: ./content/texts/proposal.md
-[dean_short.md]: ./content/texts/dean_short.md
-[dean_large.md]: ./content/texts/dean_large.md
-[vicedean_short.md]: ./content/texts/vicedean_short.md
-[vicedean_large.md]: ./content/texts/vicedean_large.md
+[deanShort.md]: ./content/texts/deanShort.md
+[deanLarge.md]: ./content/texts/deanLarge.md
+[vicedeanShort.md]: ./content/texts/vicedeanShort.md
+[vicedeanLarge.md]: ./content/texts/vicedeanLarge.md
 [counselorsTitular.csv]: ./content/csvs/counselorsTitular.csv
 [counselorsAlternate.csv]: ./content/csvs/counselorsAlternate.csv
 [images/activities]: ./build/static/img/activities
 [texts/activities]: ./content/texts/activities
 [invitation.md]: ./content/texts/invitation.md
 [joined.csv]: ./content/csvs/joined.csv
-[activities.yml]: ./content/activities.yml
+[activities.yml]: ./content/texts/activities.yml
+[esta ubicación]: https://github.com/ccpexactas/website/blob/1e52e5dc7cc1b74fb51e020020b6b8b97d8200b4/src/candidates.js#L117
