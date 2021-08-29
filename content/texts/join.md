@@ -12,6 +12,8 @@ youtube: https://www.youtube.com/channel/UCc8k8fdlqrXfvODFJagqs8g
 
 mail: mailto:ccp@agrupaciones.fcen.uba.ar
 
+csv: https://docs.google.com/spreadsheets/d/1Nyh3zdmwPMNlVauMcy0ioIJCv10tK4VhAqbcNvcE-uo/gviz/tq?tqx=out:csv&sheet=Datos_Actualizados
+
 ---
 
 Enviamos un mail a ccp@agrupaciones.fcen.uba.ar.

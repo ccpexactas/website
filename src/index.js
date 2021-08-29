@@ -69,9 +69,7 @@ const pages = [
         logo: true,
         pageMaker: join,
         content: {
-            invitation: readMarkdown(`${paths.texts}/invitation.md`),
-            lastDate: getDate(`${paths.csvs}/joined.csv`),
-            joined: readCsv(`${paths.csvs}/joined.csv`)
+            invitation: readMarkdown(`${paths.texts}/join.md`),
         }
     },
 ];

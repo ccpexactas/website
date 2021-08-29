@@ -71,10 +71,9 @@ agregadas al comienzo del archivo.
 
 ### Contacto
 
-La sección de contacto se genera a partir de dos archivos:
-- [invitation.md] Dedicado a invitar adherentes y presentar
-las redes sociales
-- [joined.csv] Lista de adheridxs (con fecha automática)
+La sección de contacto se genera a partir del archivo
+[join.md]. El texto de invitación acepta formato [markdown].
+Las redes sociales y la url al csv con 
 
 > La actualización automática de los adherentes se encuentra
 > en desarrollo. Por el momento la lista debe ser actualizada
@@ -93,7 +92,6 @@ las redes sociales
 [counselorsAlternate.csv]: ./content/csvs/counselorsAlternate.csv
 [images/activities]: ./build/static/img/activities
 [texts/activities]: ./content/texts/activities
-[invitation.md]: ./content/texts/invitation.md
-[joined.csv]: ./content/csvs/joined.csv
+[join.md]: ./content/texts/join.md
 [activities.yml]: ./content/texts/activities.yml
 [esta ubicación]: https://github.com/ccpexactas/website/blob/1e52e5dc7cc1b74fb51e020020b6b8b97d8200b4/src/candidates.js#L117

@@ -1,20 +1,5 @@
-const join = function (content){
-    let listAdherents="";
-    let i =1
-    for (const adherent of content.joined){
-        listAdherents += `
-                <tr>
-                  <th scope="row">${i}</th>
-                  <td>${adherent.lastname}</td>
-                  <td>${adherent.name}</td>
-                  <td>${adherent.dependence}</td>
-                </tr>
-        `
-        i+=1
-    }
-    return`
+const join = content => `
 
-    
     <div class="row mx-0 my-2 p-0 justify-content-center">
         
         <div class="row m-0 p-0 justify-content-center">
@@ -45,7 +30,7 @@ const join = function (content){
         
         
         <div class="row mt-3 mb-1 p-0 text-center" style="color: #1B57A6">
-            <h3>Lista de adherentes al ${content.lastDate}</h3> 
+            <h3>Lista de adherentes</h3> 
         </div>
         <div class="col-12 col-lg-10 p-2 my-0 justify-content-center container-text">
             <table class="table w-100">
@@ -57,13 +42,20 @@ const join = function (content){
                   <th scope="col">Dependencia del cargo</th>
                 </tr>
               </thead>
-              <tbody>
-                  ${listAdherents}
+              <tbody id="joinTable">
               </tbody>
             </table>
         </div>
     </div>
-    `
-}
+    <script src="static/tableLoader.js"></script>
+    <script>
+        window.onload = function(){
+            updateTable(
+                document.getElementById("joinTable"), 
+                "${content.invitation.attributes.csv}"
+            )
+        }
+    </script>
+`;
 
 module.exports = join;
