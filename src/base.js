@@ -1,8 +1,10 @@
-const base = (logo, navbar, content) => `
+const base = (title, logo, navbar, content) => `
 <html>
 
 <head>
 
+    <title>CCP Exactas - ${title}</title>
+    <meta name="description" content="Construcción Colectiva Profesorxs de Exactas - ${title}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8" />
 
