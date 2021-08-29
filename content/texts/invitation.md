@@ -14,8 +14,6 @@ mail: mailto:ccp@agrupaciones.fcen.uba.ar
 
 ---
 
-Texto de invitación.
-
 Enviamos un mail a ccp@agrupaciones.fcen.uba.ar.
 
 Completá el [formulario] para adherirte.
