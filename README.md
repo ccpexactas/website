@@ -30,6 +30,7 @@ renderiza a través de la sintaxis de [markdown].
 
 La lista de links visualizada al presionar el botón "ver
 más" se obtiene del archivo [linksDocuments.yml].
+
 ### Candidatxs
 
 Esta sección hace referencia a 6 archivos diferentes:
@@ -73,12 +74,8 @@ agregadas al comienzo del archivo.
 
 La sección de contacto se genera a partir del archivo
 [join.md]. El texto de invitación acepta formato [markdown].
-Las redes sociales y la url al csv con 
-
-> La actualización automática de los adherentes se encuentra
-> en desarrollo. Por el momento la lista debe ser actualizada
-> manualmente.
-
+Los parámetros de este archivo permiten editar las redes 
+sociales y la url al csv con la lista de adheridxs.
 
 [markdown]: https://marked.js.org/demo/
 [presentation.md]: ./content/texts/presentation.md
