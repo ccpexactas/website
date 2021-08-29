@@ -13,7 +13,7 @@ const proposal = function (content) {
 
     <div class="row m-0 p-0 justify-content-center">
     
-    ${content.attributes.title ? `
+    ${content.proposal.attributes.title ? `
     <div class="row m-3 p-0 text-center" style="color: #1B57A6"> 
         <h1>${content.proposal.attributes.title}</h1> 
     </div>
