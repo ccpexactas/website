@@ -27,9 +27,9 @@ presentación.
 La sección de propuestas se genera a partir del archivo
 [proposal.md]. Todo el formato de esta página se
 renderiza a través de la sintaxis de [markdown].
-Recibe como parámetro el link utilizado por el botón 
-"ver más" y puede configurarse un título para la página.
 
+La lista de links visualizada al presionar el botón "ver
+más" se obtiene del archivo [linksDocuments.yml].
 ### Candidatxs
 
 Esta sección hace referencia a 6 archivos diferentes:
@@ -84,6 +84,7 @@ las redes sociales
 [markdown]: https://marked.js.org/demo/
 [presentation.md]: ./content/texts/presentation.md
 [proposal.md]: ./content/texts/proposal.md
+[linksDocuments.yml]: ./content/texts/linksDocuments.yml
 [deanShort.md]: ./content/texts/deanShort.md
 [deanLarge.md]: ./content/texts/deanLarge.md
 [vicedeanShort.md]: ./content/texts/vicedeanShort.md
