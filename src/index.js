@@ -29,7 +29,10 @@ const pages = [
         href: "proposal.html",
         logo: true,
         pageMaker: proposal,
-        content: readMarkdown(`${paths.texts}/proposal.md`)
+        content: {
+            proposal: readMarkdown(`${paths.texts}/proposal.md`),
+            linksDocuments: readYamlLinks(`${paths.texts}/linksDocuments.yml`)
+        }
     },
     {
         title: "Candidatxs",
