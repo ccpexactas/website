@@ -37,6 +37,15 @@ function readYaml(yamlPath){
     })
 }
 
+function readYamlLinks(yamlPath){
+    let fileContents = fs.readFileSync(`${yamlPath}`, "utf8");
+    let documents = yaml.safeLoadAll(fileContents);
+    return documents.map(function (doc){
+        doc.link = marked(doc.link)
+        return doc
+    })
+}
+
 function readMarkdownsFolder(mdFolder){
     return fs.readdirSync(mdFolder)
         .filter(file => file.slice(-3) === ".md")
@@ -92,5 +101,5 @@ function siteMaker(pages){
 
 module.exports = {
     readMarkdown, readCsv, siteMaker, readMarkdownsFolder,
-    readImagesFolder, readYaml, getDate
+    readImagesFolder, readYaml, readYamlLinks, getDate
 };
