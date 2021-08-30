@@ -1,8 +1,3 @@
----
-viewMoreLink: https://drive.google.com/file/d/16e_TwrB_S8rUfTaAvbfy3CFb5zC0YZdf/view?usp=sharing
-
----
-
 #### Participación, transparencia, inclusión y convivencia
 
 - Crear espacios de discusión y articulación permanentes y periódicos con el claustro e
