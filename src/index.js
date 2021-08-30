@@ -39,6 +39,7 @@ const pages = [
         logo: true,
         pageMaker: candidates,
         content: {
+            introCandidates: readMarkdown(`${paths.texts}/introCandidates.md`),
             dean: {
                 short: readMarkdown(`${paths.texts}/deanShort.md`),
                 large: readMarkdown(`${paths.texts}/deanLarge.md`)
