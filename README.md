@@ -33,7 +33,8 @@ más" se obtiene del archivo [linksDocuments.yml].
 
 ### Candidatxs
 
-Esta sección hace referencia a 6 archivos diferentes:
+Esta sección hace referencia a 7 archivos diferentes:
+- [introCandidates.md] Párrafo introductorio
 - [deanShort.md] Decana (versión resumida)
 - [deanLarge.md] Decana (versión completa)
 - [vicedeanShort.md] Vicedecana (versión resumida)
@@ -58,15 +59,16 @@ Esta página esta dividida en dos partes:
 anuncios. 
 - una lista de actividades realizadas. 
 
-Las imágenes deben cargarse en la carpeta [images/activities] 
-con formato .jpg o .png. Las imágenes que sean retiradas 
-de esta carpeta dejarán de exhibirse en el carrousel.
+Las imágenes de las actividades por realizarse deben cargarse 
+en la carpeta [images/activities] con formato .jpg o .png. 
+Las imágenes que sean retiradas de esta carpeta dejarán de 
+exhibirse en el carrousel.
 
 Las actividades realizadas consisten en un contenido
 multimedia incrustado (por ejemplo un video de youtube) 
 acompañado de un título y una descripción.
 
-Las actividades visibles se encuentran en el archivo
+Las actividades pasadas visibles se encuentran en el archivo
 [activities.yml]. Las actividades más recientes deben ser
 agregadas al comienzo del archivo.
 
@@ -81,6 +83,7 @@ sociales y la url al csv con la lista de adheridxs.
 [presentation.md]: ./content/texts/presentation.md
 [proposal.md]: ./content/texts/proposal.md
 [linksDocuments.yml]: ./content/texts/linksDocuments.yml
+[introCandidates.md]: ./content/texts/introCandidates.md
 [deanShort.md]: ./content/texts/deanShort.md
 [deanLarge.md]: ./content/texts/deanLarge.md
 [vicedeanShort.md]: ./content/texts/vicedeanShort.md
