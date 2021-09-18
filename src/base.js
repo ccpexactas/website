@@ -4,7 +4,7 @@ const base = (title, logo, navbar, content) => `
 <head>
 
     <title>CCP Exactas - ${title}</title>
-    <meta name="description" content="Construcción Colectiva Profesorxs de Exactas - ${title}">
+    <meta name="description" content="Construcción Colectiva Profesorxs de Exactas - Agrupación de docentes CPP Exactas UBA - Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires - ${title}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8" />
 
