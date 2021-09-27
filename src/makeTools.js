@@ -42,7 +42,8 @@ function readYaml(yamlPath){
 function readImagesFolder(mdFolder){
     try{
         return fs.readdirSync(`build/${mdFolder}`)
-        .map(file => `${mdFolder}/${file}`);
+            .map(file => `${mdFolder}/${file}`)
+            .filter(file => file !== `${mdFolder}/README.md`);
     } catch (error){
         return []
     }
