@@ -33,7 +33,7 @@ const activities = function (content){
 
     return  `
 
-    <div class="row mx-0 my-3 p-0 justify-content-center">
+    <div class="row mx-0 my-3 p-0 justify-content-center" style="${content.carousel.length?'':'display: none'}">
     
 <!--        <div class="col-11 col-lg-10 justify-content-center">-->
 <!--            <h1 class="text-center" style="color: #1B57A6">   -->

@@ -40,8 +40,13 @@ function readYaml(yamlPath){
 }
 
 function readImagesFolder(mdFolder){
-    return fs.readdirSync(`build/${mdFolder}`)
+    try{
+        return fs.readdirSync(`build/${mdFolder}`)
         .map(file => `${mdFolder}/${file}`);
+    } catch (error){
+        return []
+    }
+
 }
 
 function readCsv(csvPath){
