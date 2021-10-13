@@ -3,7 +3,7 @@ const home = (content)=>`
     <div class="row mx-auto mt-0 mb-2 mb-lg-3 p-0 container-banner">
         <h1>
             <a href="https://ccpexactas.github.io/website/">
-                <img class="p-0" src="${content.attributes.banner}" alt="Construccin Colectiva Profesorxs Exactas (CCPExactas)">
+                <img class="p-0" src="${content.attributes.banner}" alt="Construcción Colectiva Profesorxs Exactas (CCPExactas)">
             </a>
         </h1>
     </div>
