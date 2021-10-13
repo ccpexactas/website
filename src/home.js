@@ -1,9 +1,7 @@
 const home = (content)=>`
 
     <div class="row mx-auto mt-0 mb-2 mb-lg-3 p-0 container-banner">
-        <a href="https://ccpexactas.github.io/website/">
-            <img class="p-0" src="${content.attributes.banner}" alt="Construcción Colectiva Profesorxs Exactas (CCPExactas)">
-        </a>
+        <img class="p-0" src="${content.attributes.banner}" alt="Construcción Colectiva Profesorxs Exactas (CCPExactas)">
     </div>
 
     ${content.attributes.title ? `
