@@ -20,3 +20,6 @@ Completá el [formulario] para adherirte.
 
 [formulario]: https://t.co/bTkSf21d7C?amp=1
 
+Para ver los videos de nuestros adherentes, mirá la [lista de reproducción en nuestro canal de YouTube]
+
+[lista de reproducción en nuestro canal de YouTube]: https://www.youtube.com/channel/UCc8k8fdlqrXfvODFJagqs8g/playlists
