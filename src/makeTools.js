@@ -77,7 +77,7 @@ function siteMaker(pages){
         );
         let pageHTML = base(
             pageOptions.title,
-            pageOptions.logo,
+            pageOptions.meta,
             navbar(navItems),
             pageOptions.pageMaker(pageOptions.content)
         );

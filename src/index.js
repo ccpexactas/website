@@ -18,15 +18,21 @@ const join = require("../src/join")
 const pages = [
     {
         title: "Inicio",
+        meta: {
+            title: "CCP Exactas - Inicio - Construcción Colectiva Profesorxs de Exactas",
+            description: "Construcción Colectiva Profesorxs de Exactas - Agrupación de docentes CPP Exactas UBA - Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires"
+        },
         href: "index.html",
-        logo: false,
         pageMaker: home,
         content: readMarkdown(`${paths.texts}/presentation.md`)
     },
     {
         title: "Propuestas",
+        meta: {
+            title: "CCP Exactas: Propuestas",
+            description: "Propuestas de la agrupación Construcción Colectiva Profesorxs de Exactas (CCP Exactas)"
+        },
         href: "proposal.html",
-        logo: true,
         pageMaker: proposal,
         content: {
             proposal: readMarkdown(`${paths.texts}/proposal.md`),
@@ -35,8 +41,11 @@ const pages = [
     },
     {
         title: "Candidatxs",
+        meta: {
+            title: "CCP Exactas: Candidatxs",
+            description: "Candidatas a Decana, Vicedecana y consejerxs de la agrupación CPP Exactas"
+        },
         href: "candidates.html",
-        logo: true,
         pageMaker: candidates,
         content: {
             introCandidates: readMarkdown(`${paths.texts}/introCandidates.md`),
@@ -56,8 +65,11 @@ const pages = [
     },
     {
         title: "Actividades",
+        meta: {
+            title: "CCP Exactas: Actividades",
+            description: "Anuncio de futuras actividades y archivo histórico de la agrupación CPP Exactas"
+        },
         href: "activities.html",
-        logo: true,
         pageMaker: activities,
         content: {
             carousel: readImagesFolder(`${paths.images}/activities`),
@@ -65,9 +77,12 @@ const pages = [
         }
     },
     {
-        title: "Contacto",
+        title: "Contacto y adherentes",
+        meta: {
+            title: "CCP Exactas: Contacto y adherentes",
+            description: "Redes sociales de la agrupación CPP Exactas, formulario para nuevos adherentes y listado de adheridos"
+        },
         href: "join.html",
-        logo: true,
         pageMaker: join,
         content: {
             invitation: readMarkdown(`${paths.texts}/join.md`),

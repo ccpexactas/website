@@ -1,10 +1,10 @@
-const base = (title, logo, navbar, content) => `
+const base = (title, meta, navbar, content) => `
 <html>
 
 <head>
 
-    <title>CCP Exactas - ${title} - Construcción Colectiva Profesorxs de Exactas</title>
-    <meta name="description" content="Construcción Colectiva Profesorxs de Exactas - Agrupación de docentes CPP Exactas UBA - Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires - ${title}">
+    <title>${meta.title}</title>
+    <meta name="description" content="${meta.description}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8" />
 
