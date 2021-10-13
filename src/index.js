@@ -24,7 +24,17 @@ const pages = [
         },
         href: "index.html",
         pageMaker: home,
-        content: readMarkdown(`${paths.texts}/presentation.md`)
+        content: readMarkdown(`${paths.texts}/presentation.md`),
+        structuredData: `
+            <script type="application/ld+json">
+            {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "url": "https://ccpexactas.github.io/website/",
+            "logo": "https://ccpexactas.github.io/website/static/img/CCPLogo.png"
+            }
+            </script>    
+        `
     },
     {
         title: "Propuestas",
@@ -37,7 +47,8 @@ const pages = [
         content: {
             proposal: readMarkdown(`${paths.texts}/proposal.md`),
             linksDocuments: readYaml(`${paths.texts}/linksDocuments.yml`)
-        }
+        },
+        structuredData: ""
     },
     {
         title: "Candidatxs",
@@ -61,7 +72,8 @@ const pages = [
                 titular: readCsv(`${paths.csvs}/counselorsTitular.csv`),
                 alternate: readCsv(`${paths.csvs}/counselorsAlternate.csv`)
             }
-        }
+        },
+        structuredData: ""
     },
     {
         title: "Actividades",
@@ -74,7 +86,8 @@ const pages = [
         content: {
             carousel: readImagesFolder(`${paths.images}/activities`),
             activities: readYaml(`${paths.texts}/activities.yml`)
-        }
+        },
+        structuredData: ""
     },
     {
         title: "Contacto y adherentes",
@@ -86,7 +99,8 @@ const pages = [
         pageMaker: join,
         content: {
             invitation: readMarkdown(`${paths.texts}/join.md`),
-        }
+        },
+        structuredData: ""
     },
 ];
 

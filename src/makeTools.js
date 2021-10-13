@@ -79,7 +79,8 @@ function siteMaker(pages){
             pageOptions.title,
             pageOptions.meta,
             navbar(navItems),
-            pageOptions.pageMaker(pageOptions.content)
+            pageOptions.pageMaker(pageOptions.content),
+            pageOptions.structuredData
         );
 
         fs.writeFile(

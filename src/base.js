@@ -1,4 +1,4 @@
-const base = (title, meta, navbar, content) => `
+const base = (title, meta, navbar, content, structuredData) => `
 <html>
 
 <head>
@@ -7,6 +7,8 @@ const base = (title, meta, navbar, content) => `
     <meta name="description" content="${meta.description}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8" />
+
+    ${structuredData}
 
     <!-- Bootstrap -->
     <link href="static/bootstrap/bootstrap.css" rel="stylesheet">
