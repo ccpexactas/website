@@ -71,7 +71,8 @@ const pages = [
             counselors: {
                 titular: readCsv(`${paths.csvs}/counselorsTitular.csv`),
                 alternate: readCsv(`${paths.csvs}/counselorsAlternate.csv`)
-            }
+            } ,
+            proxies: readCsv(`${paths.csvs}/proxies.csv`),
         },
         structuredData: ""
     },

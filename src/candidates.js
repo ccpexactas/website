@@ -2,21 +2,30 @@ const candidates = function (content){
 
     let counselorsTitular = "";
     let counselorsAlternate = "";
+    let proxies = [];
 
     for (const counselor of content.counselors.titular){
         counselorsTitular += `
                 <li class="list-group-item">
-                    <span class="fw-bolder">${counselor.lastname}</span> ${counselor.name}
+                    <span class="fw-bolder">${counselor.lastname}</span> ${counselor.name} (${counselor.dependence})
                 </li>
         `
     }
     for (const counselor of content.counselors.alternate){
         counselorsAlternate += `
                 <li class="list-group-item">
-                    <span class="fw-bolder">${counselor.lastname}</span> ${counselor.name}
+                    <span class="fw-bolder">${counselor.lastname}</span> ${counselor.name} (${counselor.dependence})
                 </li>
         `
     }
+    for (const proxy of content.proxies){
+      proxies.push(`
+                <li class="list-group-item">
+                    <span class="fw-bolder">${proxy.lastname}</span> ${proxy.name} (${proxy.dependence})
+                </li>
+      `);
+    }
+
     return`
 
     <div class="row mx-0 mb-3 mt-2 p-0 justify-content-center">
@@ -117,13 +126,15 @@ const candidates = function (content){
               </div>
             </div>
 
-            <div class="row mt-1 mb-3 mx-1 mx-lg-0 justify-content-center" style="display: none">
+            <div class="row mt-1 mb-3 mx-1 mx-lg-0 justify-content-center">
                 <div class="col-12 my-0 container-text justify-content-center">
+
                     <div class="row px-3 pt-2 pt-lg-3">
                         <h3 class="text-center" style="color: #1B57A6">   
                             Candidatxs a Consejerxs 
                         </h3> 
                     </div>
+
                     <div class="row m-3 justify-content-center">
                         <div class="col-12 col-lg-5 mt-2">
                             <div class="row text-center">
@@ -143,6 +154,30 @@ const candidates = function (content){
                             <div class="row ">
                                 <ul class="list-group list-group-flush text-center">
                                     ${counselorsAlternate}
+                                </ul>
+                            </div>     
+                        </div>              
+                    </div>
+
+                    <div class="row px-3 pt-2 pt-lg-3">
+                        <h3 class="text-center" style="color: #1B57A6">   
+                            Apoderadxs
+                        </h3> 
+                    </div>
+
+                    <div class="row m-3 justify-content-center">
+                        <div class="col-12 col-lg-5 mt-2">
+                            <div class="row ">
+                                <ul class="list-group list-group-flush text-center">
+                                    ${proxies[0]}
+                                </ul>
+                            </div>   
+                        </div>
+                        <div class="col-lg-1"></div>
+                        <div class="col-12 col-lg-5 mt-4 mt-md-2">
+                            <div class="row ">
+                                <ul class="list-group list-group-flush text-center">
+                                    ${proxies[1]}
                                 </ul>
                             </div>     
                         </div>              
