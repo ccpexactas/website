@@ -3,4 +3,4 @@ Además, roleando hacia abajo de esta página encontrarás los nombres de lxs ca
 
 Y aquí sus bios! [Candidatas y candidatos]
 
-[Candidatas y candidatos]:https://drive.google.com/file/d/1CNGf9Hx_7eLjMfNC2Sve1wTvdNz46A6f/view
+[Candidatas y candidatos]:https://drive.google.com/file/d/1t_TsJL2ZcwtBWEefC_aDweibUu9Nyn_x/view?usp=sharing
