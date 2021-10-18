@@ -3,4 +3,4 @@ Además, roleando hacia abajo de esta página encontrarás los nombres de lxs ca
 
 Y aquí sus bios! [Candidatas y candidatos]
 
-[Candidatas y candidatos]: shorturl.at/ilqNZ
+[Candidatas y candidatos]:shorturl.at/ilqNZ
