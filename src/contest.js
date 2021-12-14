@@ -77,7 +77,7 @@ const contest = function (content){
                       <tr>
                         <th scope="col">Nombre y Apellido</th>
                         <th scope="col">Cargo</th>
-                        <th scope="col">Mail</th>
+                        <th scope="col">Contacto</th>
                         <th scope="col">Rol</th>
                       </tr>
                     </thead>
