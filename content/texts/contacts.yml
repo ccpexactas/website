@@ -1,0 +1,219 @@
+#---
+#institute: ANLIS
+#description: Link a la página del instituto y novedades
+#contacts:
+#  - name:
+#    position:
+#    mail:
+#    role:
+
+---
+institute: BNDG
+description: Link a la página del instituto y novedades
+contacts:
+  - name: Anabella Srebrow
+    position:
+    mail: asrebrow@fbmc.fcen.uba.ar
+    role:
+      - "Conectar con investigadores del BNDG"
+
+  - name: Jorge Muschietti
+    position:
+    mail: prometeo27@gmail.com
+    role:
+      - "Conectar con investigadores del BNDG"
+
+---
+institute: CITEDEF
+description: Link a la página del instituto y novedades
+contacts:
+  - name: Miryan Cassanello
+    position:
+    mail: cassanello_m@yahoo.com.ar
+    role:
+      - "Comentar líneas de CITEDEF"
+      - "Contactar con investigadores"
+
+  - name: Susana Larrondo
+    position: Directora de UNIDEF
+    mail:
+      - "slarrondo@citedef.gob.ar"
+      - "salarrondo@gmail.com"
+    role:
+      - "Comentar líneas de CITEDEF"
+      - "Contactar con investigadores"
+
+---
+institute: CONAE
+description: Link a la página del instituto y novedades
+contacts:
+  - name: Juan Manuel Cáceres
+    position:
+    mail: jcaceres@conae.gov.ar
+    role:
+      - "Comentar líneas del Grupo de Ciencia y Desarrollo de productos de la Misión SAOCOM"
+
+---
+institute: CNEA
+description: Link a la página del instituto y novedades
+contacts:
+  - name: Andrea Bragas
+    position:
+    mail: bragas@df.uba.ar
+    role:
+      - "Contactar con investigadores de CNEA"
+
+  - name: María Fernanda Domínguez
+    position: Gerenta Área Académica CNEA
+    mail: mariadominguez@cnea.gob.ar
+    role:
+
+---
+institute: IAA
+description: Link a la página del instituto y novedades
+contacts:
+  - name: Viviana Alder
+    position:
+    mail: viviana_alder@yahoo.com
+    role:
+
+  - name: Sergio Santillana
+    position:
+    mail: ssantillana@dna.gov.ar
+    role:
+
+---
+institute: IGN
+description: Link a la página del instituto y novedades
+contacts:
+  - name: Eugenia Chiarito
+    position: Directora de I&D en IGN
+    mail: echiarito@ign.gob.ar
+    role:
+
+#---
+#institute: INA
+#description: Link a la página del instituto y novedades
+#contacts:
+#  - name:
+#    position:
+#    mail:
+#    role:
+
+---
+institute: INIDEP
+description: Link a la página del instituto y novedades
+contacts:
+  - name: Alberto Piola
+    position:
+    mail: piolaar@gmail.com
+    role:
+      - "Comentar líneas de investigación"
+      - "Contactar con investigadores"
+
+  - name: Moira Luz Clara
+    position:
+    mail: moiralc@gmail.com
+    role:
+      - "Comentar líneas de investigación"
+      - "Contactar con investigadores"
+
+#---
+#institute: INPRES
+#description: Link a la página del instituto y novedades
+#contacts:
+#  - name:
+#    position:
+#    mail:
+#    role:
+
+#---
+#institute: INTA
+#description: Link a la página del instituto y novedades
+#contacts:
+#  - name:
+#    position:
+#    mail:
+#    role:
+
+---
+institute: INTI
+description: Link a la página del instituto y novedades
+contacts:
+  - name: Luis M. Baraldo
+    position:
+    mail: luis.baraldo@gmail.com
+    role:
+      - "Contactar con investigadores"
+
+  - name: Andrea Bragas
+    position:
+    mail: bragas@df.uba.ar
+    role:
+      - "Contactar con INTI , física y metrología"
+
+  - name: Hector Laiz
+    position: Gerente metrología, calidad y ambiente del INTI
+    mail: laiz@inti.gob.ar
+    role:
+      - "Contactar las líneas de investigación y desarrollo y perfiles requeridos"
+
+#---
+#institute: PN
+#description: Link a la página del instituto y novedades
+#contacts:
+#  - name:
+#    position:
+#    mail:
+#    role:
+
+---
+institute: SEGEMAR
+description: Link a la página del instituto y novedades
+contacts:
+  - name: Roberto Scasso
+    position:
+    mail: rscasso@yahoo.com.ar
+    role:
+      - "Contactar con investigadores"
+
+  - name: Augusto Rapalini
+    position:
+    mail: augrap@yahoo.com.ar
+    role:
+      - "Contactar con investigadores"
+
+---
+institute: SHN
+description: Link a la página del instituto y novedades
+contacts:
+  - name: Alberto Piola
+    position:
+    mail: Alberto Piola
+    role:
+      - "Comentar líneas de investigación"
+      - "Contactar con investigadores"
+
+---
+institute: SMN
+description: Link a la página del instituto y novedades
+contacts:
+  - name: Celeste Saulo
+    position: Directora del SMN
+    mail: celeste.saulo@gmail.com
+    role:
+      - "Comentar líneas de investigación"
+      - "Contactar con investigadores"
+
+  - name: Claudia Campetella
+    position: Directora de Pronósticos y Servicios a la Sociedad
+    mail: ccampetella@gmail.com
+    role:
+      - "Comentar líneas de investigación"
+      - "Contactar con investigadores"
+
+  - name: Inés Camilloni
+    position: Directora de Pronósticos y Servicios a la Sociedad
+    mail: inescamilloni@gmail.com
+    role:
+      - "Contactar con investigadores"

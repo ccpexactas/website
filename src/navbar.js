@@ -14,7 +14,7 @@ const navbar = function (elements){
     for (const element of elements) {
         nav += `
             <li class="nav-item">
-              <a class="nav-link ${element.active ? "active" : ""}" aria-current="page" href="${element.href}" style="color: #f9fafb">${element.title}</a>
+              <a class="nav-link ${element.active ? "active" : ""}" aria-current="page" href="${element.href}" style="${element.title === "Concursos abiertos en organismos de CyT" ? "background-color:#E40C0CFF" : ""}; color: #ffffff">${element.title}</a>
             </li>
         `
     }

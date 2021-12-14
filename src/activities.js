@@ -1,5 +1,12 @@
 const activities = function (content){
 
+    function replaceIframe(iframe, width, height){
+        return iframe
+            .replace(/\<iframe/g, `<iframe style="float:left; padding-right:1rem; padding-bottom:1rem"`)
+            .replace(/(width=)"\d*"/g, `width=${width}`)
+            .replace(/(height=)"\d*"/g, `height=${height}`)
+    }
+
     let itemsCarousel = "";
     for (const item of content.carousel){
         itemsCarousel += `
@@ -11,21 +18,15 @@ const activities = function (content){
 
     let oldActivities ="";
     for(let activity of content.activities){
+        activity.media = replaceIframe(activity.media, 500, 281)
         oldActivities += `
         <div class="row mx-0 my-3 p-0 container-text justify-content-center">
-            <div class="col-12 col-lg-7">
-                <div class="row m-0 px-0 py-3">
+            <div class="col-11">
+                <h5 class="text-center m-2"> ${activity.title}</h5>
+                <div>
                     ${activity.media}
                 </div>
-            </div>
-            <div class="col-12 col-lg-5">
-                <div class="row mx-0 mb-0 mt-1 p-3 text-center">
-                    <h5>${activity.title}</h5>
-                </div>
-                <div class="row m-0 p-3">
-                    <p>${activity.description}</p>
-                </div>
-
+                <p>${activity.description}</p>
             </div>
         </div>
             `

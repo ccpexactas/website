@@ -14,6 +14,7 @@ const proposal = require("../src/proposal")
 const candidates = require("../src/candidates")
 const activities = require("../src/activities")
 const join = require("../src/join")
+const contest = require("../src/contest")
 
 const pages = [
     {
@@ -100,6 +101,22 @@ const pages = [
         pageMaker: join,
         content: {
             invitation: readMarkdown(`${paths.texts}/join.md`),
+        },
+        structuredData: ""
+    },
+    {
+        title: "Concursos abiertos en organismos de CyT",
+        meta: {
+            title: "CCP Exactas: Convocatoria a concursos",
+            description: "Campaña para convocatoria anual de concursos propuesta por CCPExactas"
+        },
+        href: "contest.html",
+        pageMaker: contest,
+        content: {
+            introContest: readMarkdown(`${paths.texts}/introContest.md`),
+            updates: readMarkdown(`${paths.texts}/updates.md`),
+            institutes: readYaml(`${paths.texts}/contacts.yml`),
+            discussion: readYaml(`${paths.texts}/discussion.yml`),
         },
         structuredData: ""
     },
