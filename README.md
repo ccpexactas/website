@@ -1,4 +1,4 @@
-# Generador del sitio web CCPExactas
+# Generador del sitio web CCPExactas 
 
 Este repositorio contiene el código y los recursos
 necesarios para generar por completo el sitio web de la 
