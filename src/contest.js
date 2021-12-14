@@ -2,7 +2,7 @@ const contest = function (content){
 
     function replaceIframe(iframe, width, height){
         return iframe
-            .replace(/\<iframe/g, `<iframe style="float:right; padding-left:1rem; padding-bottom:1rem"`)
+            .replace(/\<iframe/g, `<iframe style="float:right; padding-left:1rem; padding-right:1rem; padding-bottom:1rem"`)
             .replace(/(width=)"\d*"/g, `width=${width}`)
             .replace(/(height=)"\d*"/g, `height=${height}`)
     }
@@ -103,7 +103,7 @@ const contest = function (content){
     return  `
 
     <div class="row mx-0 mx-lg-2 my-2 p-0 justify-content-center">
-      <div class="col-11 col-lg-6 px-lg-3 mx-auto container-text" style="height: 20rem">
+      <div class="col-11 col-lg-6 px-lg-3 mx-auto container-text">
         <p> ${content.introContest.body}</p>
       </div>
       
