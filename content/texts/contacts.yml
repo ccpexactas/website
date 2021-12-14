@@ -65,7 +65,9 @@ contacts:
 
   - name: María Fernanda Domínguez
     position: Gerenta Área Académica CNEA
-    mail: mariadominguez@cnea.gob.ar
+    mail: 
+      - "mariadominguez@cnea.gob.ar"
+      - "11 3217 8001"
     role:
 
 ---
