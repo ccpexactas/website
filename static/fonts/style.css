@@ -114,6 +114,18 @@
   margin-bottom: 1rem;
 }
 
+.container-text-right{
+  background-color: white;
+  border-style: solid;
+  border-color: #1B57A6;
+  /*border-top-left-radius: 1rem;*/
+  /*border-bottom-left-radius: 1rem;*/
+  border-width: 2px;
+  color: #1B57A6;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
 
 @media (max-width: 768px){
   .container-text{
