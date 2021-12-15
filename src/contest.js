@@ -111,6 +111,12 @@ const contest = function (content){
         <p> ${content.updates.body}</p>
       </div>
     </div>
+    
+    <div class="row text-center">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfyE4aWu71V1cF0KyvI9eQmx6WerCQG-3L7qUzac9GMhaWeVA/viewform"> 
+            Si querés recibir información a medida que se actualice ¡Suscribite!
+        </a>
+    </div>
 
     <div class="row mx-2 mx-lg-5 mt-2 mb-2 p-2 text-center" style="color: #1B57A6">
         <h5>Personas de contacto y convocatorias abiertas</h5>

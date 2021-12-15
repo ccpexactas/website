@@ -1,11 +1,21 @@
-#---
-#institute: ANLIS
-#description: Link a la página del instituto y novedades
-#contacts:
-#  - name:
-#    position:
-#    mail:
-#    role:
+---
+institute: ANLIS
+description: Link a la página del instituto y novedades
+contacts:
+  - name:
+    position:
+    mail:
+    role:
+
+---
+institute: APN
+description: Link a la página del instituto y novedades
+contacts:
+  - name:
+    position:
+    mail:
+    role:
+
 
 ---
 institute: BNDG
@@ -43,6 +53,11 @@ contacts:
       - "Comentar líneas de CITEDEF"
       - "Contactar con investigadores"
 
+  - name: Claudia Viviana Vassena
+    position: Investigadora responsable. LABORATORIO DE ENTOMOLOGÍA. DIPEIN - CITEDEF
+    mail: cvassena@citedef.gob.ar
+    role:
+
 ---
 institute: CONAE
 description: Link a la página del instituto y novedades
@@ -78,6 +93,7 @@ contacts:
     position:
     mail: viviana_alder@yahoo.com
     role:
+      - "Comentar líneas de trabajo del IAA, especialmente orientada a  las Ciencias del Mar/Oceanografía Biológica"
 
   - name: Sergio Santillana
     position:
@@ -93,14 +109,14 @@ contacts:
     mail: echiarito@ign.gob.ar
     role:
 
-#---
-#institute: INA
-#description: Link a la página del instituto y novedades
-#contacts:
-#  - name:
-#    position:
-#    mail:
-#    role:
+---
+institute: INA
+description: Link a la página del instituto y novedades
+contacts:
+  - name:
+    position:
+    mail:
+    role:
 
 ---
 institute: INIDEP
@@ -120,23 +136,23 @@ contacts:
       - "Comentar líneas de investigación"
       - "Contactar con investigadores"
 
-#---
-#institute: INPRES
-#description: Link a la página del instituto y novedades
-#contacts:
-#  - name:
-#    position:
-#    mail:
-#    role:
+---
+institute: INPRES
+description: Link a la página del instituto y novedades
+contacts:
+  - name:
+    position:
+    mail:
+    role:
 
-#---
-#institute: INTA
-#description: Link a la página del instituto y novedades
-#contacts:
-#  - name:
-#    position:
-#    mail:
-#    role:
+---
+institute: INTA
+description: Link a la página del instituto y novedades
+contacts:
+  - name:
+    position:
+    mail:
+    role:
 
 ---
 institute: INTI
@@ -160,25 +176,10 @@ contacts:
     role:
       - "Contactar las líneas de investigación y desarrollo y perfiles requeridos"
 
-#---
-#institute: PN
-#description: Link a la página del instituto y novedades
-#contacts:
-#  - name:
-#    position:
-#    mail:
-#    role:
-
 ---
 institute: SEGEMAR
 description: Link a la página del instituto y novedades
 contacts:
-  - name: Roberto Scasso
-    position:
-    mail: rscasso@yahoo.com.ar
-    role:
-      - "Contactar con investigadores"
-
   - name: Augusto Rapalini
     position:
     mail: augrap@yahoo.com.ar
