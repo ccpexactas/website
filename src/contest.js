@@ -49,6 +49,16 @@ const contest = function (content){
                 `
             }
 
+            if (typeof(contact.description) == "string"){
+                contact.description = [contact.description]
+            }
+            if (contact.description){
+                contact.descriptionList = `
+                    <p>${contact.description.join("</p><p>")}</p>  
+                    
+                `
+            }
+
             item.table += `
                 <tr>
                   <th scope="row">${contact.name ? contact.name : ""}</th>
@@ -69,7 +79,6 @@ const contest = function (content){
             <div id="collapse${item.institute.replace(/ /g,'')}" class="accordion-collapse collapse" aria-labelledby="heading${item.institute.replace(/ /g,'')}" data-bs-parent="#accordionInstitutes">
               <div class="accordion-body">
                 <p> ${item.description ? item.description : ""} </p>
-                
                 
                 <div class="table-responsive">
                   <table class="table">
