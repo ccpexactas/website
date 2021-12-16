@@ -79,6 +79,19 @@ La sección de contacto se genera a partir del archivo
 Los parámetros de este archivo permiten editar las redes 
 sociales y la url al csv con la lista de adheridxs.
 
+### Concursos abiertos en organismos de CyT
+
+El contenido de esta sección es generado por 4 archivos.
+
+En un primer bloque se encuentra un párrafo introductorio [introContest.md] 
+y una sección novedades [updates.md]. 
+
+Luego se encuentra el listado de institutos y contacto con facilitadores
+[contact.yml].
+
+Y por último los videos del conversatorio realizado con los distintos los 
+organismos de CyT [discussion.yml]. 
+
 [markdown]: https://marked.js.org/demo/
 [presentation.md]: ./content/texts/presentation.md
 [proposal.md]: ./content/texts/proposal.md
@@ -95,3 +108,7 @@ sociales y la url al csv con la lista de adheridxs.
 [join.md]: ./content/texts/join.md
 [activities.yml]: ./content/texts/activities.yml
 [esta ubicación]: https://github.com/ccpexactas/website/blob/1e52e5dc7cc1b74fb51e020020b6b8b97d8200b4/src/candidates.js#L117
+[introContest.md]: ./content/texts/introContest.md
+[updates.md]: ./content/texts/updates.md
+[contact.yml]: ./content/texts/contacts.yml
+[discussion.yml]: ./content/texts/discussion.yml
