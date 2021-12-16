@@ -1,6 +1,6 @@
 ---
 institute: ANLIS
-description: Link a la página del instituto y novedades
+description:
 contacts:
   - name:
     position:
@@ -9,7 +9,7 @@ contacts:
 
 ---
 institute: APN
-description: Link a la página del instituto y novedades
+description:
 contacts:
   - name:
     position:
@@ -19,7 +19,7 @@ contacts:
 
 ---
 institute: BNDG
-description: Link a la página del instituto y novedades
+description:
 contacts:
   - name: Anabella Srebrow
     position:
@@ -35,7 +35,7 @@ contacts:
 
 ---
 institute: CITEDEF
-description: Link a la página del instituto y novedades
+description:
 contacts:
   - name: Miryan Cassanello
     position:
@@ -60,7 +60,7 @@ contacts:
 
 ---
 institute: CONAE
-description: Link a la página del instituto y novedades
+description:
 contacts:
   - name: Juan Manuel Cáceres
     position:
@@ -70,7 +70,7 @@ contacts:
 
 ---
 institute: CNEA
-description: Link a la página del instituto y novedades
+description:
 contacts:
   - name: Andrea Bragas
     position:
@@ -87,7 +87,7 @@ contacts:
 
 ---
 institute: IAA
-description: Link a la página del instituto y novedades
+description:
 contacts:
   - name: Viviana Alder
     position:
@@ -102,7 +102,7 @@ contacts:
 
 ---
 institute: IGN
-description: Link a la página del instituto y novedades
+description:
 contacts:
   - name: Eugenia Chiarito
     position: Directora de I&D en IGN
@@ -111,7 +111,7 @@ contacts:
 
 ---
 institute: INA
-description: Link a la página del instituto y novedades
+description:
 contacts:
   - name:
     position:
@@ -120,7 +120,7 @@ contacts:
 
 ---
 institute: INIDEP
-description: Link a la página del instituto y novedades
+description:
 contacts:
   - name: Alberto Piola
     position:
@@ -138,7 +138,7 @@ contacts:
 
 ---
 institute: INPRES
-description: Link a la página del instituto y novedades
+description:
 contacts:
   - name:
     position:
@@ -147,7 +147,7 @@ contacts:
 
 ---
 institute: INTA
-description: Link a la página del instituto y novedades
+description:
 contacts:
   - name:
     position:
@@ -156,7 +156,7 @@ contacts:
 
 ---
 institute: INTI
-description: Link a la página del instituto y novedades
+description:
 contacts:
   - name: Luis M. Baraldo
     position:
@@ -178,7 +178,7 @@ contacts:
 
 ---
 institute: SEGEMAR
-description: Link a la página del instituto y novedades
+description:
 contacts:
   - name: Augusto Rapalini
     position:
@@ -188,7 +188,7 @@ contacts:
 
 ---
 institute: SHN
-description: Link a la página del instituto y novedades
+description:
 contacts:
   - name: Alberto Piola
     position:
@@ -199,7 +199,7 @@ contacts:
 
 ---
 institute: SMN
-description: Link a la página del instituto y novedades
+description:
 contacts:
   - name: Celeste Saulo
     position: Directora del SMN

@@ -68,7 +68,7 @@ const contest = function (content){
             </h2>
             <div id="collapse${item.institute.replace(/ /g,'')}" class="accordion-collapse collapse" aria-labelledby="heading${item.institute.replace(/ /g,'')}" data-bs-parent="#accordionInstitutes">
               <div class="accordion-body">
-                <p> ${item.description} </p>
+                <p> ${item.description ? item.description : ""} </p>
                 
                 
                 <div class="table-responsive">
