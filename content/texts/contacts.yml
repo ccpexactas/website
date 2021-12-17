@@ -56,7 +56,15 @@ contacts:
   - name: Claudia Viviana Vassena
     position: Investigadora responsable. LABORATORIO DE ENTOMOLOGÍA. DIPEIN - CITEDEF
     mail: cvassena@citedef.gob.ar
-    role:
+    role: 
+      - "Estará disponible en enero para comentar las líneas de investigación de su área en CITEDEF"
+      
+      - name: Raúl Alzogaray
+    position: Investigador responsable. Departamento de Investigaciones en Plagas e Insecticidas. DIPEIN - CITEDEF
+    mail: cvassena@citedef.gob.ar
+    role: 
+      - "Estará disponible en febrero para comentar las líneas de investigación de su área en CITEDEF"
+
 
 ---
 institute: CONAE
