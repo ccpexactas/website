@@ -11,6 +11,7 @@ contacts:
 ---
 institute: APN
 description:
+  Administración de Parques Nacionales
 contacts:
   - name:
     position:
@@ -21,15 +22,16 @@ contacts:
 ---
 institute: BNDG
 description:
+  Banco Nacional de Datos Genéticos
 contacts:
   - name: Anabella Srebrow
-    position:
+    position: Profesora FCEN UBA. Departamento de Fisiología, Biología Molecular y Celular
     mail: asrebrow@fbmc.fcen.uba.ar
     role:
       - "Conectar con investigadores del BNDG"
 
   - name: Jorge Muschietti
-    position:
+    position: Profesor FCEN UBA. Departamento de Biodiversidad y Biología Experimental
     mail: prometeo27@gmail.com
     role:
       - "Conectar con investigadores del BNDG"
