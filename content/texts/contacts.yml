@@ -1,6 +1,7 @@
 ---
 institute: ANLIS
-description: Administración Nacional de Laboratorios e Institutos de Salud
+description: |
+  Administración Nacional de Laboratorios e Institutos de Salud
 contacts:
   - name:
     position:
@@ -59,7 +60,7 @@ contacts:
     role: 
       - "Estará disponible en enero para comentar las líneas de investigación de su área en CITEDEF"
       
-      - name: Raúl Alzogaray
+  - name: Raúl Alzogaray
     position: Investigador responsable. Departamento de Investigaciones en Plagas e Insecticidas. DIPEIN - CITEDEF
     mail: ralzogaray@citedef.gob.ar
     role: 
@@ -78,7 +79,8 @@ contacts:
 
 ---
 institute: CNEA
-description: Comisión Nacional de energía atomica https://www.argentina.gob.ar/cnea.
+description: |
+  Comisión Nacional de energía atomica https://www.argentina.gob.ar/cnea.
 contacts:
   - name: Andrea Bragas
     position:
