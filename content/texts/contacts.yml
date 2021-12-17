@@ -39,6 +39,7 @@ contacts:
 ---
 institute: CITEDEF
 description:
+  Instituto de Investigaciones Científicas y Técnicas para la Defensa
 contacts:
   - name: Miryan Cassanello
     position: Profesora FCEN UBA. Departamento de Industrias.
@@ -72,12 +73,43 @@ contacts:
 ---
 institute: CONAE
 description:
+  Comisión Nacional de Actividades Espaciales
 contacts:
   - name: Juan Manuel Cáceres
-    position:
+    position: Desarrollador de aplicaciones SAR para el proyecto SAOCOM
     mail: jcaceres@conae.gov.ar
     role:
       - "Comentar líneas del Grupo de Ciencia y Desarrollo de productos de la Misión SAOCOM"
+      
+  - name: Daniel Gómez
+    position: Profesor FCEN UBA. Departamento de Física
+    mail: gomez@df.uba.ar
+    role:
+      - "Conectar con personas que colaboran con CONAE"
+      
+  - name: Cesar Bertucci
+    position: Investigador del IAFE. Colabora con investigadorxs de  CONAE
+    mail: cbertucci@iafe.uba.ar
+    role: 
+      - "Conectar con investigadorxs de CONAE"
+      
+  - name: Sergio Dasso
+    position: Profesor FCEN. Investigador del IAFE. Colabora con investigadorxs de  CONAE
+    mail: sdasso@iafe.uba.ar
+    role: 
+      - "Conectar con investigadorxs de CONAE"
+      
+  - name: Ana Dogliotti
+    position: Investigadora del IAFE. Colabora con investigadorxs de  CONAE
+    mail: adogliotti@iafe.uba.ar
+    role: 
+      - "Conectar con investigadorxs de CONAE"
+      
+  - name: Francisco Grings
+    position: Investigador del IAFE. Colabora con investigadorxs de  CONAE
+    mail: verderis@iafe.uba.ar
+    role: 
+      - "Conectar con investigadorxs de CONAE"
 
 ---
 institute: CNEA
@@ -85,7 +117,7 @@ description: |
   Comisión Nacional de energía atomica https://www.argentina.gob.ar/cnea.
 contacts:
   - name: Andrea Bragas
-    position:
+    position: Profesora FCEN UBA. Departamento de Física
     mail: bragas@df.uba.ar
     role:
       - "Contactar con investigadores de CNEA"
