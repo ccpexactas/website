@@ -87,29 +87,29 @@ contacts:
     role:
       - "Conectar con personas que colaboran con CONAE"
       
-  - name: Cesar Bertucci
-    position: Investigador del IAFE. Colabora con investigadorxs de  CONAE
-    mail: cbertucci@iafe.uba.ar
-    role: 
-      - "Conectar con investigadorxs de CONAE"
+  #- name: Cesar Bertucci
+  #  position: Investigador del IAFE. Colabora con investigadorxs de  CONAE
+  #  mail: cbertucci@iafe.uba.ar
+  #  role: 
+  #    - "Conectar con investigadorxs de CONAE"
       
-  - name: Sergio Dasso
-    position: Profesor FCEN. Investigador del IAFE. Colabora con investigadorxs de  CONAE
-    mail: sdasso@iafe.uba.ar
-    role: 
-      - "Conectar con investigadorxs de CONAE"
+  #- name: Sergio Dasso
+  #  position: Profesor FCEN. Investigador del IAFE. Colabora con investigadorxs de  CONAE
+  #  mail: sdasso@iafe.uba.ar
+  #  role: 
+  #    - "Conectar con investigadorxs de CONAE"
       
-  - name: Ana Dogliotti
-    position: Investigadora del IAFE. Colabora con investigadorxs de  CONAE
-    mail: adogliotti@iafe.uba.ar
-    role: 
-      - "Conectar con investigadorxs de CONAE"
+  #- name: Ana Dogliotti
+  #  position: Investigadora del IAFE. Colabora con investigadorxs de  CONAE
+  #  mail: adogliotti@iafe.uba.ar
+  #  role: 
+  #    - "Conectar con investigadorxs de CONAE"
       
-  - name: Francisco Grings
-    position: Investigador del IAFE. Colabora con investigadorxs de  CONAE
-    mail: verderis@iafe.uba.ar
-    role: 
-      - "Conectar con investigadorxs de CONAE"
+  #- name: Francisco Grings
+  #  position: Investigador del IAFE. Colabora con investigadorxs de  CONAE
+  #  mail: verderis@iafe.uba.ar
+  #  role: 
+  #    - "Conectar con investigadorxs de CONAE"
 
 ---
 institute: CNEA
