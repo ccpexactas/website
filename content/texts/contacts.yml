@@ -1,28 +1,36 @@
 ---
 institute: ANLIS
 description: |
-  Administración Nacional de Laboratorios e Institutos de Salud
+  Administración Nacional de Laboratorios e Institutos de Salud https://www.argentina.gob.ar/salud/anlis
 contacts:
-  - name:
-    position:
-    mail:
+  - name: Anabella Srebrow
+    position: Profesora FCEN UBA. Departamento de Fisiología, Biología Molecular y Celular
+    mail: asrebrow@fbmc.fcen.uba.ar
     role:
+      - "Conectar con investigadores de ANLIS"
 
 ---
 institute: APN
 description: |
-  Administración de Parques Nacionales
+  Administración de Parques Nacionales https://www.argentina.gob.ar/parquesnacionales
 contacts:
-  - name:
-    position:
-    mail:
+  - name: Andrea Bragas
+    position: Profesora FCEN UBA. Departamento de Física
+    mail: bragas@df.uba.ar
     role:
+      - "Informar áreas de la convocatoria y bases. Contactar con el organismo"
+      
+  - name: Pedro Aramendía
+    position: Profesor FCEN UBA. Departamento de Química Inorgánica, Analítica y Química Física. Director CIBION CONICET
+    mail: pedro.aramendia@cibion.conicet.gov.ar
+    role:
+      - "Contactar con el organismo"
 
 
 ---
 institute: BNDG
 description:
-  Banco Nacional de Datos Genéticos
+  Banco Nacional de Datos Genéticos https://www.argentina.gob.ar/ciencia/bndg
 contacts:
   - name: Anabella Srebrow
     position: Profesora FCEN UBA. Departamento de Fisiología, Biología Molecular y Celular
@@ -39,7 +47,7 @@ contacts:
 ---
 institute: CITEDEF
 description:
-  Instituto de Investigaciones Científicas y Técnicas para la Defensa
+  Instituto de Investigaciones Científicas y Técnicas para la Defensa https://www.argentina.gob.ar/defensa/citedef
 contacts:
   - name: Miryan Cassanello
     position: Profesora FCEN UBA. Departamento de Industrias.
@@ -73,7 +81,7 @@ contacts:
 ---
 institute: CONAE
 description:
-  Comisión Nacional de Actividades Espaciales
+  Comisión Nacional de Actividades Espaciales https://www.argentina.gob.ar/ciencia/conae
 contacts:
   - name: Juan Manuel Cáceres
     position: Desarrollador de aplicaciones SAR para el proyecto SAOCOM
@@ -82,7 +90,7 @@ contacts:
       - "Comentar líneas del Grupo de Ciencia y Desarrollo de productos de la Misión SAOCOM"
       
   - name: Daniel Gómez
-    position: Profesor FCEN UBA. Departamento de Física
+    position: Profesor FCEN UBA. Departamento de Física. Director del IAFE
     mail: gomez@df.uba.ar
     role:
       - "Conectar con personas que colaboran con CONAE"
@@ -132,7 +140,7 @@ contacts:
 ---
 institute: IAA
 description: 
-  Instituto Antártico Argentino
+  Instituto Antártico Argentino https://www.cancilleria.gob.ar/es/iniciativas/dna/instituto-antartico-argentino
 contacts:
   - name: Viviana Alder
     position: Investigadora del CONICET. Instituto Antártico Argentino 
@@ -146,9 +154,9 @@ contacts:
     role: 
       - "Comentar líneas de trabajo del IAA y atender dudas de lxs postulantes"
 ---
-institute: IGN
+institute: IGN 
 description:
-  Instituto Geográfico Nacional
+  Instituto Geográfico Nacional https://www.ign.gob.ar/
 contacts:
   - name: Eugenia Chiarito
     position: Directora de I&D en IGN
@@ -158,8 +166,8 @@ contacts:
 ---
 institute: INA
 description:
-  Instituto Nacional del Agua
-contacts:
+  Instituto Nacional del Agua https://www.argentina.gob.ar/ina
+contacts: 
   - name: Roberto Scasso
     position: Profesor FCEN UBA. Departamento de Ciencias Geologicas
     mail: rscasso@yahoo.com.ar
@@ -169,7 +177,7 @@ contacts:
 ---
 institute: INIDEP
 description:
-  Instituto Nacional de Investigación y Desarrollo Pesquero
+  Instituto Nacional de Investigación y Desarrollo Pesquero https://www.argentina.gob.ar/inidep
 contacts:
   - name: Alberto Piola
     position: Profesor FCEN UBA. Departamento de la atmósfera y los océanos
@@ -186,9 +194,9 @@ contacts:
       - "Contactar con investigadores"
 
 ---
-institute: INPRES
+institute: INPRES 
 description:
-  INSTITUTO NACIONAL DE PREVENCIÓN SÍSMICA
+  INSTITUTO NACIONAL DE PREVENCIÓN SÍSMICA https://www.inpres.gob.ar/desktop/
 contacts:
   - name:
     position:
@@ -198,7 +206,7 @@ contacts:
 ---
 institute: INTA
 description:
-  Instituto Nacional de Tecnología Agropecuaria
+  Instituto Nacional de Tecnología Agropecuaria https://www.argentina.gob.ar/inta
 contacts:
   - name:
     position:
@@ -206,9 +214,9 @@ contacts:
     role:
 
 ---
-institute: INTI
+institute: INTI 
 description:
-  Instituto Nacional de Tecnología Industrial
+  Instituto Nacional de Tecnología Industrial https://www.argentina.gob.ar/inti
 contacts:
   - name: Luis M. Baraldo
     position: Profesor FCEN UBA. Departamento de Química Inorgánica, Analítica y Química Física 
@@ -231,7 +239,7 @@ contacts:
 ---
 institute: SEGEMAR
 description:
-  Servicio Geológico Minero Argentino
+  Servicio Geológico Minero Argentino https://www.argentina.gob.ar/produccion/segemar
 contacts:
   - name: Augusto Rapalini
     position: Profesor FCEN UBA. Departamento de Ciencias Geológicas
@@ -254,7 +262,7 @@ contacts:
 ---
 institute: SHN
 description:
-  Servicio de Hidrografía Naval
+  Servicio de Hidrografía Naval http://www.hidro.gov.ar/
 contacts:
   - name: Alberto Piola
     position: Profesor FCEN UBA. Departamento de Ciencias Geológicas. Departamento de Oceanografía del Servicio de Hidrografía Naval.
@@ -275,11 +283,17 @@ contacts:
     role:
       - "Comentar líneas de investigación"
       - "Contactar con investigadores"
-
+      
+   - name: Daniela Spoltore 
+    position: CPA en el IGeBA (Instituto de Geociencias Básicas, Aplicadas y Ambientales de Buenos Aires)
+    mail: spoltoredaniela@yahoo.com.ar
+    role:
+      - "Comentar el trabajo que se realiza en SHN"
+   
 ---
 institute: SMN
 description:
-  Servicio Meteorológico Nacional
+  Servicio Meteorológico Nacional http://www3.smn.gob.ar/
 contacts:
   - name: Celeste Saulo
     position: Directora del SMN
