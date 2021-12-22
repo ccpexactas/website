@@ -198,20 +198,22 @@ institute: INPRES
 description: |
   [Instituto Nacional de Prevención Sísmica](https://www.inpres.gob.ar/desktop/)
 contacts:
-  - name:
-    position:
-    mail:
+  - name: Augusto Rapalini
+    position: Profesor FCEN UBA. Departamento de Ciencias Geológicas
+    mail: augrap@yahoo.com.ar
     role:
+      - "Contactar con investigadores"
 
 ---
 institute: INTA
 description: |
   [Instituto Nacional de Tecnología Agropecuaria](https://www.argentina.gob.ar/inta)
 contacts:
-  - name:
-    position:
-    mail:
-    role:
+  - name: Esteban Hopp
+    position: Profesor FCEN UBA. Departamento de Fisiología y Biología Molecular y Celular
+    mail: ehopp@fbmc.fcen.uba.ar
+    role: 
+      - "Contactar con investigadores"
 
 ---
 institute: INTI 
