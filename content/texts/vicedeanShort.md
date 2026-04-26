@@ -7,7 +7,7 @@ image: static/img/InesCamilloni.jpeg
 
 ---
 
-Profesora asociada exclusiva FCEN - UBA.
+Profesora titular exclusiva FCEN - UBA.
 
 
 Investigadora Independiente de CONICET.
