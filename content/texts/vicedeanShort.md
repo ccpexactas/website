@@ -1,18 +1,17 @@
 ---
-title: Candidata a Vicedecana
+title: Candidato a Vicedecano
 
-name: Ines Camilloni
+name: Javier Ramírez
 
-image: static/img/InesCamilloni.jpeg
+image: static/img/JavierRamirez.jpeg
 
 ---
 
-Profesora titular exclusiva FCEN - UBA.
+Profesora adjunto exclusiva FCEN - UBA.
 
 
 Investigadora Independiente de CONICET.
 
 
-Lugar de trabajo: Departamento de Ciencias de la 
-Atmósfera y los Océanos, FCEN - UBA y CIMA/UBA - CONICET.
+Lugar de trabajo: Departamento de Química Orgánica, FCEN - UBA.
 
