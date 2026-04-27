@@ -1,74 +1,79 @@
-#### Participación, transparencia, inclusión y convivencia
+Los ejes de nuestra propuesta se estructuran en tres dimensiones interrelacionadas: por un lado, la participación, transparencia, inclusión y convivencia, entendidas como condiciones necesarias para una vida institucional democrática, con instancias reales de debate, acceso público a la información y una política activa contra las desigualdades y las violencias; por otro, un modelo de desarrollo institucional basado en la planificación estratégica, el fortalecimiento de la enseñanza, la investigación y el posgrado, y la definición de prioridades académicas y científicas a mediano y largo plazo; y finalmente, la vinculación, orientada a consolidar el rol de la Facultad en articulación con el sistema científico-tecnológico, el Estado y la sociedad, promoviendo tanto la transferencia de conocimiento como la inserción de sus graduados y graduadas.
 
-- Crear espacios de discusión y articulación permanentes y periódicos con el claustro e
-interclaustros.
-- Sostener las comisiones transversales de discusión formal (ej: comisión Ad hoc).
-- Llevar adelante acciones que tiendan a eliminar la discriminación por cuestiones de
-género u orientación sexual en todos los aspectos que hacen a la vida de la Facultad.
-Éste debe ser un eje central del próximo gobierno de la facultad apoyando y
-ampliando las acciones de GenEx.
-- Desarrollar herramientas para la contención y la resolución de conflictos.
+#### 1. Participación, transparencia, inclusión y convivencia
+La participación no debe entenderse como una instancia paralela ni como un reemplazo de los órganos institucionales. El Consejo Directivo, las comisiones, las secretarías, los departamentos y los CODEPs tienen funciones y responsabilidades que deben ser respetadas estrictamente. Pero la calidad democrática de la Facultad mejora cuando esos espacios se articulan con mecanismos de consulta, diagnóstico, seguimiento y debate que permitan construir decisiones mejor fundadas y más compartidas.
+#### 1.1. Mesa de Crisis y Reconstrucción
+Proponemos crear una Mesa de Crisis y Reconstrucción, interclaustro e interagrupación, articulada desde el Consejo Directivo con consulta a los CODEPs, gremios, centro de estudiantes, institutos y áreas de gestión. Su función será coordinar respuestas frente al desfinanciamiento y acciones urgentes ante situaciones inesperadas, relevar el impacto de la crisis en docencia, investigación, becas, infraestructura y condiciones de trabajo, ordenar prioridades institucionales de emergencia, elaborar propuestas para la etapa de reconstrucción y producir informes breves y periódicos para la comunidad. 
+#### 1.2. Información presupuestaria clara y periódica
+Impulsaremos informes públicos y periódicos sobre la situación presupuestaria de la Facultad, incluyendo recursos disponibles, gastos comprometidos, deudas y emergencias, prioridades de asignación, impacto de la crisis en áreas críticas y necesidades no cubiertas. En un contexto de escasez, contar con información clara permite discutir mejor las prioridades y sostener la confianza colectiva.
+#### 1.3. Seguimiento de Concursos
+Proponemos elevar los estándares de transparencia en los concursos de profesores/ras. Para ello fortalecer la trazabilidad de los procesos administrativos asociados mediante criterios públicos para el orden de sustanciación, seguimiento accesible de demoras y etapas y criterios para la designación de veedores. Exactas mantiene una tradición valiosa de concursos abiertos, públicos y rigurosos. Hay que cuidarla, actualizarla y hacerla cada vez más robusta.
+#### 1.4. Distribución de espacios y recursos críticos
+Proponemos realizar un relevamiento actualizado de espacios docentes, administrativos, comunes y de investigación, y definir a partir de ese diagnóstico criterios públicos para la asignación y reasignación de espacios, el uso de espacios comunes, las prioridades de mantenimiento, las necesidades de laboratorios docentes, las necesidades de institutos y departamentos, la accesibilidad y las condiciones de trabajo. El resultado debería ser un Mapa de Espacios y Necesidades Críticas de Exactas, revisado periódicamente.
+#### 1.5. Exactas, un mejor lugar de trabajo
+Proponemos fortalecer las políticas para que Exactas sea un mejor lugar para enseñar, investigar, estudiar y trabajar, articulando las herramientas ya existentes en género, diversidad, accesibilidad, salud mental y bienestar con una agenda más amplia de convivencia institucional. Esto implica promover ámbitos libres de prácticas autoritarias, señalamientos personales o desvalorización de trayectorias diversas, sean docentes, científicas, profesionales o de gestión, siempre dentro de los objetivos académicos y científicos de la facultad. Para ello impulsaremos espacios seguros de trabajo, mecanismos confiables de mediación y resolución de conflictos, y formación específica para quienes cumplen roles de gestión, evaluación y conducción.
 
-#### Modelo de desarrollo institucional
 
-- En el primer año de gestión se deberá definir una visión para la FCEN con un horizonte
-a 10 años, que definirá un marco y dirección para las acciones de desarrollo, que se
-podrán revisar cada 5 años, siempre con un horizonte de 10 a futuro.
-- Impulsar y gestionar que el programa de doctorado cuente con el presupuesto, la
-infraestructura y el personal necesarios para su correcto desarrollo.
-- Promover la planificación, seguimiento y evaluación de la gestión institucional,
-incluyendo la autoevaluación, evaluación externa y el desarrollo del plan, en el marco
-de herramientas como el Programa de Evaluación Institucional (PEI) del MinCyT.
-- Incrementar la coordinación académica a través de rondas académicas periódicas,
-desde la secretaría académica con directoras/es de departamentos y consejeras/os
-directivas/os. Temas para abordar: planes de estudio, deserción, nuevos programas y
-carreras, interdisciplina, prácticas sociales educativas, habilidades “blandas”,
-estrategias docentes en la virtualidad y la presencialidad, reequipamiento de los
-laboratorios de docencia.
-- Crear un foro de investigación de funcionamiento periódico, desde la secretaría de
-investigación (incluyendo vinculación) con directoras/es de departamentos e institutos
-y consejeros/as directivos/as. Temas: ingresos a carrera, umbral de calidad, áreas de
-vacancia, identificación de áreas/ejes estratégicos e interdisciplinarios, funcionamiento
-del comité de gestión UBA-CONICET, presupuesto de investigación, compra de
-equipamiento común, estrategias conjuntas y acciones a corto, mediano y largo plazo.
-- Fortalecer y reorganizar los posgrados y especializaciones en Exactas en tanto a su
-modalidad (orientación científica o profesional) como a ejes temáticos en grandes
-áreas.
-- Crear un espacio de reflexión sobre las cuestiones éticas vinculadas al desarrollo,
-producción y transferencia del conocimiento científico y tecnológico.
+#### 2. Modelo de desarrollo institucional
 
-#### Vinculación
+Exactas necesita sostenerse frente al ajuste, pero también recuperar capacidad de planificación. No alcanza con administrar la emergencia ni con acumular programas. La Facultad necesita discutir hacia dónde va, qué prioridades tendrá, cómo crecerá, cómo sostendrá sus carreras, cómo fortalecerá su investigación, cómo se articulará con el sistema científico y qué condiciones materiales requiere para hacerlo.
+#### 2.1. Proyecto de Desarrollo Institucional de Exactas
+Impulsaremos un Proyecto de Desarrollo Institucional con horizonte de diez años, revisión cada cinco años y metas intermedias bien definidas. Este proyecto debería construirse en un período acotado, de entre 12 y 18 meses, con participación de departamentos, institutos, secretarías, comisiones del CD, y actores externos relevantes. No debe ser un documento declarativo: debe producir diagnósticos, prioridades, indicadores y decisiones de planificación. Las dimensiones a evaluar serán:
+- la docencia de grado, considerando planes de estudio, duración real de las carreras, materias críticas, retención y egreso, carga docente, articulación con CBC, laboratorios docentes, nuevas modalidades de enseñanza e impacto de nuevas carreras sobre departamentos existentes; la planta docente y nodocente, incluyendo distribución de cargos, áreas sobrecargadas, necesidades asociadas a nuevas carreras o reformas, concursos pendientes, áreas administrativas críticas y necesidades técnicas, de mantenimiento, sistemas, doctorado y gestión académica; 
+- el doctorado y posgrado, atendiendo a escala real, financiamiento, administración, cursos, infraestructura, condiciones de trabajo de tesistas, articulación con institutos y oferta de especializaciones y posgrados profesionales; 
+- la investigación, incluyendo capacidades existentes, áreas estratégicas y en riesgo, equipamiento común, relación UBA-CONICET, financiamiento, infraestructura, programas interdisciplinarios e inserción de jóvenes investigadorxs; 
+- la infraestructura y hábitat, considerando aulas, laboratorios docentes y de investigación, espacios comunes, accesibilidad, conectividad, mantenimiento, seguridad e higiene y sustentabilidad energética; 
+- y la vinculación y rol público de Exactas, en relación con organismos del Estado, sistema científico-tecnológico, escuelas, municipios, sector productivo, empresas públicas, cooperativas, organizaciones sociales, graduadxs.
+  
+El producto concreto deberá ser un diagnóstico institucional público, un mapa de fortalezas, déficits y áreas críticas, una matriz de prioridades a corto, mediano y largo plazo, un plan de planta docente y nodocente, un plan de infraestructura crítica, una estrategia para el doctorado, una política de investigación y vinculación, indicadores de seguimiento y una revisión periódica.
+#### 2.2. Nuevas carreras y reformas con sustentabilidad
+Toda nueva carrera, reforma de plan de estudios o programa académico estratégico debe venir acompañada por un informe de sustentabilidad que explicite cargos docentes necesarios, impacto sobre departamentos, necesidades de aulas y laboratorios, equipamiento requerido, personal nodocente asociado, financiamiento, cronograma de implementación y mecanismos de evaluación. Exactas debe crecer, pero no sobre la base de sobrecargar estructuras ya tensionadas.
+#### 2.3. Programa de Doctorado con financiamiento genuino
+El doctorado es una de las funciones centrales de Exactas. Sin embargo, su escala no se corresponde con el financiamiento, la infraestructura y el personal destinados a sostenerlo. Proponemos reclamar financiamiento específico y genuino para el Programa de Doctorado, rechazar el autofinanciamiento mediante aranceles como salida estructural, fortalecer la administración del doctorado, relevar condiciones de trabajo de tesistas, financiar cursos estratégicos, mejorar la articulación con institutos UBA-CONICET y discutir públicamente el modelo de doctorado de la Facultad. El doctorado no puede ser central para el prestigio de Exactas y periférico en su financiamiento.
+#### 2.4. Foro Permanente de Investigación
+Crear un foro de investigación de funcionamiento periódico, desde la secretaría de investigación (incluyendo vinculación) con directoras/es de departamentos e institutos UBA y UBA-CONICET y consejeros/as directivos/as. También con la invitación a otros actores externos relevantes. Los temas a abordar por este foro incluyen ingresos a la carrera de investigador científico del CONICET, áreas de vacancia, identificación de áreas/ejes estratégicos e interdisciplinarios, funcionamiento de la mesa de coordinación UBA-CONICET, presupuesto de investigación, compra de equipamiento común, estrategias conjuntas y acciones a corto, mediano y largo plazo.
+#### 2.5. Inteligencia artificial en enseñanza, evaluación e investigación
+La inteligencia artificial generativa está transformando la enseñanza, la evaluación, la escritura académica, la programación, el análisis de datos y la producción científica. Exactas no puede dejar este proceso librado únicamente al criterio individual de cada materia, laboratorio o docente.
+Proponemos crear un Protocolo Institucional de Uso de Inteligencia Artificial en Enseñanza, Evaluación e Investigación, que establezca usos permitidos, usos que deben declararse y usos incompatibles con la integridad académica; criterios para parciales, finales, informes de laboratorio, trabajos domiciliarios, tesis, código, presentaciones y otras producciones evaluables; pautas para declarar uso de IA en trabajos estudiantiles y académicos; criterios para investigación, escritura científica, análisis de datos, generación de imágenes, revisión bibliográfica y programación; recomendaciones para proteger datos sensibles, resultados inéditos, exámenes, información personal y manuscritos no publicados; y revisión periódica del protocolo. El objetivo no debe ser ni prohibir ingenuamente ni naturalizar acríticamente, sino promover un uso responsable, creativo, justo y académicamente honesto de estas herramientas.
+#### 2.6. Centro de Promoción de la Calidad Educativa
+Proponemos crear un espacio institucional que acompañe a carreras, departamentos y equipos docentes en la mejora de la enseñanza, con apoyo a reformas de planes de estudio, análisis de trayectorias estudiantiles, formación docente, evaluación de materias críticas, diseño de materiales accesibles, mejora de laboratorios docentes, acompañamiento en nuevas herramientas digitales e IA, revisión de encuestas docentes y apoyo a prácticas pedagógicas innovadoras.
+#### 2.7. Personal nodocente y áreas críticas
+Proponemos trabajar junto al claustro nodocente en una política de fortalecimiento de áreas administrativas, técnicas y de mantenimiento, a partir del relevamiento de áreas deficitarias, capacitación continua, criterios claros de jerarquización y fortalecimiento de áreas estratégicas de gestión.
 
-- Sostener y jerarquizar el área de transferencia de la facultad.
-- Llevar adelante el acompañamiento de graduados/as fuera del ámbito de la facultad.
-- Crear el espacio Exactas Debate, donde se traten temas estratégicos que se discuten a
-nivel nacional en un foro de expertos de la facultad y el entorno con el objetivo de
-generar posicionamientos y acciones en base a experticia desde la facultad y ubicar a 
-Exactas como un centro de referencia nacional y regional.
-- Profundizar el acercamiento Exactas-CBC a través de convenios de intercambio
-docente, avalados por las autoridades de la FCEyN y del CBC y/o fomentando el
-incremento de docentes con doble pertenencia.
-- Continuar, sostener y fortalecer las acciones de Popularización de la Ciencia incluyendo
-los cursos para docentes de nivel medio y la producción de contenido para escuelas
-- Continuar, sostener y fortalecer el excelente trabajo que la FCEN lleva adelante con los
-programas de Extensión y Comunicación de la Ciencia.
-- Consolidar las actividades de los programas de Historia, y Memoria, Verdad y Justicia,
-para nuestra comunidad ampliada, con el objetivo de conocer, reconocer y valorizar
-nuestras raíces.
 
-#### Coyuntura 
+#### 3. Vinculación con el sistema científico, el Estado y el aparato socio-productivo
+En la actual coyuntura, la vinculación es una herramienta más para acercar la Universidad a la Sociedad e ir preparando el proceso de reconstrucción. La vinculación de Exactas no puede reducirse a la transferencia de servicios ni al emprendedurismo, aunque esas dimensiones sean valiosas. Exactas debe vincularse desde su identidad como universidad pública: produciendo conocimiento, formando profesionales, interviniendo en debates estratégicos, articulando con el Estado, el sistema científico, el territorio, las escuelas, el sector productivo y la sociedad.
+#### 3.1. Programa de Vinculación Institucional para la Reconstrucción
+Proponemos crear un Programa de Vinculación Institucional orientado a articular a Exactas con CONICET, universidades públicas, organismos nacionales de ciencia y tecnología, ministerios y áreas técnicas del Estado, provincias y municipios, empresas públicas, sector productivo, cooperativas, organizaciones sociales, escuelas y profesorados. El objetivo es preparar capacidades institucionales para la reconstrucción científica, educativa, productiva y democrática del país. Conformar un Centro de articulación social que redefina el vínculo universidad-territorio-sociedad y contribuya al desarrollo eficaz de nuevas Cooperativas de Trabajo en áreas afines a los de la facultad, coordinando con los movimientos sociales.
+#### 3.2. Qué CONICET queremos
+Exactas debe participar activamente en una discusión estratégica sobre el futuro del CONICET. No queremos el modelo de destrucción, vaciamiento y disciplinamiento que propone el gobierno nacional. Pero tampoco alcanza con volver sin debate al esquema anterior. La reconstrucción debe incluir una evaluación seria de lo que funcionó, de lo que debe fortalecerse y de lo que debe transformarse.
+Proponemos abrir una discusión institucional sobre el rol de los institutos de doble dependencia UBA-CONICET, la articulación real entre institutos, departamentos y carreras, la relación entre agenda científica, autonomía académica y prioridades nacionales, los mecanismos de creación, evaluación y eventual reorientación de institutos, la distribución de recursos entre áreas consolidadas, emergentes y estratégicas, la inserción de jóvenes investigadorxs, el rol de la UBA en la definición de políticas científicas y la relación entre investigación básica, aplicada, tecnológica y territorial.
+#### 3.3. Programas estratégicos temporales
+Proponemos explorar la creación de programas especiales, temáticos y de duración definida para abordar problemas concretos del país y de la región. Estos programas podrían funcionar como estructuras flexibles, interdisciplinarias y temporales, sin reemplazar institutos ni departamentos. La idea es promover redes de grupos que colaboren en torno a problemas relevantes, con objetivos, plazos, evaluación y producción de resultados.
+#### 3.4. Exactas Debate
+Proponemos crear el espacio Exactas Debate como instancia pública de discusión e intervención sobre temas estratégicos: qué CONICET queremos, inteligencia artificial, soberanía tecnológica, ciencia y democracia, desarrollo económico y productivo, ambiente, energía, salud, alimentos, agua, alfabetización científica, universidad y derechos humanos, etc. Cada ciclo debería producir documentos breves, posicionamientos públicos, propuestas institucionales y articulaciones con actores externos.
+#### 3.5. Transferencia tecnológica 
+Proponemos fortalecer la vinculación y transferencia tecnológica con criterios explícitos de: acompañamiento administrativo a grupos de investigación, criterios claros para convenios, evaluación ética de acuerdos, protección de capacidades institucionales, promoción de proyectos con impacto social, productivo, ambiental o sanitario, articulación con empresas públicas, PyMEs, cooperativas y organismos estatales, y defensa de la propiedad intelectual cuando corresponda, sin resignar el carácter público del conocimiento.
+#### 3.6 CBC
+Profundizar el vínculo formal Exactas-CBC a través de convenios de intercambio docente y/o fomentando el incremento de docentes con doble pertenencia.
+#### 3.7 Popularización e historia
+Continuar, sostener, ampliar y fortalecer las acciones de Popularización de la Ciencia. Consolidar las actividades de los programas de Historia, y Memoria, Verdad y Justicia, para nuestra comunidad ampliada.
 
-A la coyuntura pre-pandemia, marcada por un escaso presupuesto, se sumó el
-impacto de la pandemia que agravó la situación general de nuestro país impactando
-fuertemente en todos los estamentos sociales y económicos, incluyendo especialmente a
-todos los niveles educativos. Se alteró el tiempo dedicado a la docencia, con una sobrecarga en
-la adecuación a la virtualidad, los espacios de trabajo (los propios hogares) y la falta de
-recursos apropiados que generó la situación de emergencia. Toda investigación experimental,
-en trabajos que no fueran vinculantes con proyectos COVID-19 sufrieron la interrupción (en
-algunos casos total) del trabajo de laboratorio. Afectó a toda la comunidad científica pero
-dañó en particular a grupos jóvenes y a jóvenes en formación, preocupando el abandono y la
-desafiliación. Es difícil evaluar al día de hoy el impacto real y el tiempo que será necesario para
-la recuperación. El trabajo de gestión del próximo período se verá atravesado por el manejo de
-la llamada nueva normalidad, en donde lo normal en el sentido de frecuente no será lo que
-abunde, sino la diversidad de abordajes frente a las diferentes realidades de los integrantes de
-nuestra comunidad.
+#### 4. Compromisos inmediatos de CCP en el Consejo Directivo
+- Creación de la Mesa de Crisis y Reconstrucción.
+- Informes presupuestarios públicos y periódicos. 
+- Relevamiento de necesidades críticas de espacios, infraestructura y mantenimiento. 
+- Proyecto de Desarrollo Institucional con horizonte de diez años. 
+- Informe de sustentabilidad para nuevas carreras y reformas de planes. 
+- Reclamo de financiamiento genuino para doctorado. 
+- Foro Permanente de Investigación. 
+- Protocolo institucional de uso de IA en docencia, evaluación e investigación. 
+- Debate institucional sobre qué CONICET queremos. 
+- Exactas Debate.
+- Programas estratégicos temporales para problemas nacionales y regionales. 
+- Políticas de bienestar, salud integral, género, diversidad y accesibilidad. 
+- Transferencia y vinculación con sentido público.
+
+#### Epílogo
+La crisis actual nos obliga a defender con fuerza la universidad pública, gratuita, democrática, inclusiva y de calidad. Pero también nos obliga a pensar cómo vamos a reconstruir lo dañado.
+Necesitamos defender salarios, becas, subsidios y condiciones de trabajo, pero también definir qué proyecto institucional queremos construir. Desde CCP proponemos una Facultad que respete plenamente su institucionalidad y al mismo tiempo la fortalezca con más participación, más información, más planificación y más capacidad colectiva de decisión.
