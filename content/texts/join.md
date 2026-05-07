@@ -10,7 +10,7 @@ facebook: https://www.facebook.com/CCPExactas
 
 youtube: https://www.youtube.com/channel/UCc8k8fdlqrXfvODFJagqs8g
 
-csv: https://docs.google.com/spreadsheets/d/1Nyh3zdmwPMNlVauMcy0ioIJCv10tK4VhAqbcNvcE-uo/gviz/tq?tqx=out:csv&sheet=Datos_Actualizados
+csv: 
 
 ---
 
